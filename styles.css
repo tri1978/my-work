@@ -1,0 +1,33 @@
+{
+}
+body {
+  background-image: url(/images/tumblr_1adc7619bca02e0aafe27404b084dad4_6f8c81c7_540.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#form-con {
+  text-align: center;
+ 
+}
+h1 {
+  text-align: center;
+  color: crimson;
+}
+h2 {
+  text-align: center;
+  color: rgb(65, 127, 29);
+}
+
+#submit-con:hover {
+  color: blue;
+}
+#div-contact {
+   margin: 500px;
+   width: 300px;
+   margin: auto;
+   padding: 50px;
+   border: 5px dotted red;
+   background-image: url(/images/icegif-543.gif);
+   background-size: cover;
+  
+}
