@@ -1,7 +1,7 @@
-{
+* {
 }
 body {
-  background-image: url(/images/tumblr_1adc7619bca02e0aafe27404b084dad4_6f8c81c7_540.gif);
+  background-image: url(/);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -27,7 +27,10 @@ h2 {
    margin: auto;
    padding: 50px;
    border: 5px dotted red;
-   background-image: url(/images/icegif-543.gif);
+   background-image: url();
    background-size: cover;
   
+}
+.button-sign {
+    text-align: center;
 }
