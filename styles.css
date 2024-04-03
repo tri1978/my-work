@@ -1,14 +1,14 @@
 * {
 }
 body {
-  background-image: url(/);
+  background-image: url();
   background-size: cover;
   background-repeat: no-repeat;
 }
 #form-con {
   text-align: center;
- 
 }
+
 h1 {
   text-align: center;
   color: crimson;
@@ -26,11 +26,18 @@ h2 {
    width: 300px;
    margin: auto;
    padding: 50px;
-   border: 5px dotted red;
+   border: 5px  line red;
    background-image: url();
-   background-size: cover;
+   background-size: cover
   
 }
 .button-sign {
-    text-align: center;
+ text-align: center;
+ 
+}
+.div-login {
+  text-align: center;
+}
+{
+
 }
